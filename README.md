@@ -42,8 +42,3 @@ Setup of a Linux virtual machine using Windows Subsystem for Linux (WSL) with th
 
 ## 📸 Screenshots and Evidence
 All screenshots are included in the [documentation.pdf](https://github.com/jmur4saki/first-linux-vm/blob/main/documentation.pdf)
-
----
-
-> 🔥 **Repository Description:**  
-**"Linux VM setup using WSL, terminal navigation, and basic shell commands for system administration practice."**
