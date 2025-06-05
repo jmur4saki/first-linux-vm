@@ -40,6 +40,9 @@ Setup of a Linux virtual machine using Windows Subsystem for Linux (WSL) with th
 - Using aliases to personalize and optimize terminal commands.
 - Basic administration and interaction with a Linux environment integrated into Windows through WSL.
 
+## 📸 Screenshots and Evidence
+All screenshots are included in the [documentation.pdf](https://github.com/jmur4saki/first-linux-vm/blob/main/documentation.pdf)
+
 ---
 
 > 🔥 **Repository Description:**  
